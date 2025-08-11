@@ -1,0 +1,197 @@
+{
+  "countries": [
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "food": "tacos al pastor",
+      "custom": "¡Buen provecho! before eating",
+      "flag": "mexico.svg"
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "food": "pepian",
+      "custom": "Handshakes; family is central",
+      "flag": "guatemala.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "capital": "San José",
+      "food": "gallo pinto",
+      "custom": "Pura vida as greeting",
+      "flag": "costa_rica.svg"
+    },
+    {
+      "name": "Panama",
+      "capital": "Panama City",
+      "food": "sancocho",
+      "custom": "Tipping common in restaurants",
+      "flag": "panama.svg"
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "food": "arepa",
+      "custom": "Kiss on the cheek to greet",
+      "flag": "colombia.svg"
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "food": "ceviche",
+      "custom": "Altitude etiquette: move slowly",
+      "flag": "colombia.svg"
+    },
+    {
+      "name": "Peru",
+      "capital": "Lima",
+      "food": "lomo saltado",
+      "custom": "Coca tea for altitude in Andes",
+      "flag": "peru.svg"
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "food": "empanadas",
+      "custom": "Late dinners common",
+      "flag": "chile.svg"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "food": "asado",
+      "custom": "Mate is shared socially",
+      "flag": "argentina.svg"
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "food": "feijoada",
+      "custom": "Carnaval culture",
+      "flag": "brazil.svg"
+    },
+    {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "food": "chivito",
+      "custom": "Mate everywhere",
+      "flag": "uruguay.svg"
+    },
+    {
+      "name": "Cuba",
+      "capital": "Havana",
+      "food": "ropa vieja",
+      "custom": "Live music and dance",
+      "flag": "cuba.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "food": "mangú",
+      "custom": "Merengue and baseball",
+      "flag": "dominican_republic.svg"
+    }
+  ],
+  "vocab": [
+    {
+      "es": "hola",
+      "en": "hello"
+    },
+    {
+      "es": "gracias",
+      "en": "thank you"
+    },
+    {
+      "es": "por favor",
+      "en": "please"
+    },
+    {
+      "es": "buenos días",
+      "en": "good morning"
+    },
+    {
+      "es": "buenas tardes",
+      "en": "good afternoon"
+    },
+    {
+      "es": "buenas noches",
+      "en": "good night"
+    },
+    {
+      "es": "¿cuánto cuesta?",
+      "en": "how much is it?"
+    },
+    {
+      "es": "la cuenta",
+      "en": "the bill"
+    },
+    {
+      "es": "agua",
+      "en": "water"
+    },
+    {
+      "es": "comida",
+      "en": "food"
+    },
+    {
+      "es": "salud",
+      "en": "cheers"
+    },
+    {
+      "es": "iglesia",
+      "en": "church"
+    },
+    {
+      "es": "museo",
+      "en": "museum"
+    },
+    {
+      "es": "parque",
+      "en": "park"
+    },
+    {
+      "es": "izquierda",
+      "en": "left"
+    },
+    {
+      "es": "derecha",
+      "en": "right"
+    },
+    {
+      "es": "arriba",
+      "en": "up"
+    },
+    {
+      "es": "abajo",
+      "en": "down"
+    },
+    {
+      "es": "aeropuerto",
+      "en": "airport"
+    },
+    {
+      "es": "taxi",
+      "en": "taxi"
+    },
+    {
+      "es": "autobús",
+      "en": "bus"
+    },
+    {
+      "es": "bicicleta",
+      "en": "bicycle"
+    },
+    {
+      "es": "playa",
+      "en": "beach"
+    },
+    {
+      "es": "montaña",
+      "en": "mountain"
+    },
+    {
+      "es": "sendero",
+      "en": "trail"
+    }
+  ]
+}
